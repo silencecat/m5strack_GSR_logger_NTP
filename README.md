@@ -1,0 +1,2 @@
+# m5strack_GSR_logger_NTP
+使用M5strack和GSR传感器在SD卡上记录GSR
