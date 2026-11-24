@@ -31,14 +31,7 @@ void dis_IU() {//画丑爆了的UI
 
 }
 
-//WIFI相关代码：
-//Ambient和wifi的设置
-//研究室wifi aterm-ac2876-g
-//pass       3295a7101338b
-//杉本さんMY ASUS   2d2bc72444a8
 WiFiClient client;
-const char* ssid = "MY ASUS";
-const char* password = "2d2bc72444a8";
 
 void setup() {
 
